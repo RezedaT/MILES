@@ -15,7 +15,7 @@
 // или без ввода int miles
 // System.out.println(amount/20 + " миль начислено");
 //}
-// }
+//}
 
 public class Main {
     public static void main(String[] args) {
